@@ -1,0 +1,10 @@
+{
+"DataStoreDirectory":"1067",
+"EmitDiagnosticNotices":true,
+"EgressRegion":"DE",
+"TunnelProtocol":"FRONTED-MEEK-OSSH",
+"LocalHttpProxyPort":1067,
+"DisableRemoteServerListFetcher":true,
+"PropagationChannelId":"92AACC5BABE0944C",
+"SponsorId":"4BA4DEF917101460"
+}
