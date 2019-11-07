@@ -3,6 +3,7 @@ run multiple psiphon to increase performance
 
 This works on linux-amd64
 clone the repository 
+note that the configuration .text files are configured to use FRONTED-MEEK-OSSH
 
 ```
 apt install haproxy -y
@@ -10,6 +11,7 @@ apt install haproxy -y
 cd multi_psiphon
 
 chmod +x pslnx 
+chmod +x startpslnx.sh
 
 ./startpslnx.sh
 ```
