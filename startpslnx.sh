@@ -1,0 +1,22 @@
+#!/bin/bash
+./pslnx --config 1050.txt&
+./pslnx --config 1051.txt&
+./pslnx --config 1052.txt&
+./pslnx --config 1053.txt&
+./pslnx --config 1054.txt&
+./pslnx --config 1055.txt&
+./pslnx --config 1056.txt&
+./pslnx --config 1057.txt&
+./pslnx --config 1058.txt&
+./pslnx --config 1059.txt&
+./pslnx --config 1060.txt&
+./pslnx --config 1061.txt&
+./pslnx --config 1062.txt&
+./pslnx --config 1063.txt&
+./pslnx --config 1064.txt&
+./pslnx --config 1065.txt&
+./pslnx --config 1066.txt&
+./pslnx --config 1067.txt&
+./pslnx --config 1068.txt&
+./pslnx --config 1069.txt&
+haproxy -f haproxy.cfg&
