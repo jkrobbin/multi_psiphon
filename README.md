@@ -5,6 +5,8 @@ This works on linux-amd64
 clone the repository 
 
 ```
+apt install haproxy -y
+
 cd multi_psiphon
 
 chmod +x pslnx 
